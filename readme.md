@@ -1,5 +1,5 @@
 ### Python Programmer
-**The displayed codes names are from projects made by myself, **
+**The displayed codes names are from projects made by myself.**
 
 
 ## Code Examples
