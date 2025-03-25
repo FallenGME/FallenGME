@@ -165,4 +165,5 @@ def setup(bot):
     bot.add_cog(BotAnalytics(bot))
 ```
 
+> You can also look at the Research Department bot for some extra examples.
 **I am aware that some softwares use a simpler system, by minimizing the variable ammount. I am able to do that depending on the preference**
